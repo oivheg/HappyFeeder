@@ -1,0 +1,12 @@
+{
+    "name": "HappyFeeder",
+    "description": "Porject that Feeds the dog when she presses button wihtin a set period of time ",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "HappyFeeder.json",
+            "credentialsFile": "HappyFeeder_cred.json"
+        }
+    }
+}
